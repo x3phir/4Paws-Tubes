@@ -11,11 +11,11 @@ import Navbar from "../components/layout/TheNavbar.vue";
 
     <main class="bg-gradient-to-b from-white to-[#96BB83]">
       <!-- Hero -->
-      <section class="w-full px-4 sm:px-6 lg:px-8 pt-20 pb-8 md:py-20">
+      <section class="w-full px-4 sm:px-6 lg:px-8 pt-2  0 pb-8 md:py-20">
         <div class="container mx-auto">
           <div class="max-w-3xl mx-auto text-center font-display">
             <h1
-              class="font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-[#182F0C] leading-tight mb-4 px-2"
+              class="text-4xl md:text-5xl font-bold text-[#182F0C] leading-tight mb-4 px-2"
             >
               Berdonasi untuk Hewan yang Membutuhkan
             </h1>

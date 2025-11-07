@@ -17,7 +17,7 @@ const openModal = () => {
   <div class="card flex bg-base-100 text-black w-96 shadow-sm rounded-[70px] ">
     <!-- Card Image -->
     <figure>
-      <img src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp" alt="Shoes" />
+      <img src="../../assets/shelter1.jpg" alt="Shoes" />
     </figure>
 
     <!-- CARD BODY -->
